@@ -1,1 +1,13 @@
 //your code here
+.main{
+	width:200px;
+	background-color: purple;
+	border-left:5px solid green;
+    padding:10px;
+}
+.heading{
+	color:white;
+	font-size:20px;
+	text-decoration:underline;
+	
+}
